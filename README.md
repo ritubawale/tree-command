@@ -19,7 +19,7 @@ This project is an implementation of the `tree` command in C. The `tree` command
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/tree-command-c.git
+    git clone https://github.com/ritubawale/tree-command.git
     cd tree-command-c
     ```
 
