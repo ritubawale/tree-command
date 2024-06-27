@@ -1,0 +1,9 @@
+directories, files coloring :
+	Rupali Ramesh Bawale
+For tree command :
+	Man page of tree
+For list and directory contents and stat file permissions :
+	http://codewiki.wikidot.com/c:system-calls:stat
+
+	
+	
